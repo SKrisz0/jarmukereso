@@ -4,5 +4,4 @@ Az oldal első lépésben bekéri a felhasználó igényeit az ideális autójá
 
 functions.py - Az oldal funkcióit tárolja el, a main.py ebből a file-ból építkezik
 main.py - a functions.py file segítségével a megadott funkciók alapján kiírja a felhasználónak a választási lehetőségetek vagy információkat
-data.csv - az állandó adatbázis
 data.py - a functions.py számára szükséges változók tárolása
